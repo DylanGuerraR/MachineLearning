@@ -8,3 +8,7 @@ matplotlib
 xgboost
 db-dtypes
 google-cloud-bigquery-storage
+statsmodels
+joblib
+os
+imblearn
